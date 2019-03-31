@@ -247,5 +247,4 @@ class Medibot:
             Medibot.respond(speech)
             b+=1
 
-Medibot.start()
 
